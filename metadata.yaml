@@ -1,11 +1,16 @@
 _repo: A-Topographical-Account-of-Market-Lavington_58146
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58146-h/images/cover.jpg
 creator:
   author:
     agent_name: Atley, Henry
     gutenberg_agent_id: '49791'
     url: http://www.gutenberg.org/2009/agents/49791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58146#A-Topographical-Account-of-Market-Lavington
 gutenberg_issued: '2018-10-21'
 gutenberg_type: Text
 identifiers:
